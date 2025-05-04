@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a482a1d-e88a-40ad-bc38-3845f27e65f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/Mid_2_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/P-9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/p12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/p13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/p22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP 2 LAB/p3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/Arithmetic Operations Program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/Cinema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_1/Number Guessing Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Comparison Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Conditional(If-Else).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Hellow World.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Logical Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Math Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/OOPEXaM/Practise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/OOPEXaM/Practise3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/OOPEXaM/Practise4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/OOPEXaM/practise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/OOPEXaM/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/OOPEXaM/stringPractise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Operator Precdence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Shape printing using for loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Simplemath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/String Concatenation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/String Index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/String Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/String Repetition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/String Slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Truple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Type Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/While_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/for loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/for loop2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Practise/fuunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liveclass practise/Read Files Name From Directory and Print List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liveclass practise/file_hanading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liveclass practise/file_handaling2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liveclass practise/fuunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liveclass practise/fuunction2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2kwyYQKX6uqjCAfeiwPWanXQ5sA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Arithmetic Operations Program.executor": "Run",
+    "Python.Cinema.executor": "Run",
+    "Python.Comparison Operators.executor": "Run",
+    "Python.Conditional(If-Else).executor": "Debug",
+    "Python.Dictionary.executor": "Run",
+    "Python.Function.executor": "Run",
+    "Python.Hellow World.executor": "Run",
+    "Python.Ioop.executor": "Run",
+    "Python.List.executor": "Run",
+    "Python.Logic.executor": "Run",
+    "Python.Logical Operator.executor": "Run",
+    "Python.Mid_2_b.executor": "Run",
+    "Python.Number Guessing Game.executor": "Run",
+    "Python.P-10.executor": "Run",
+    "Python.P-11.executor": "Run",
+    "Python.P-14.executor": "Run",
+    "Python.P-15.executor": "Run",
+    "Python.P-16.executor": "Run",
+    "Python.P-17.executor": "Run",
+    "Python.P-18.executor": "Run",
+    "Python.P-19.executor": "Run",
+    "Python.P-20.executor": "Run",
+    "Python.P-21.executor": "Run",
+    "Python.P-23.executor": "Run",
+    "Python.P-24.executor": "Run",
+    "Python.P-25.executor": "Run",
+    "Python.P-26.executor": "Run",
+    "Python.P-27.executor": "Run",
+    "Python.P-28.executor": "Run",
+    "Python.P-29.executor": "Run",
+    "Python.P-30.executor": "Run",
+    "Python.P-4.executor": "Run",
+    "Python.P-5.executor": "Run",
+    "Python.P-6.executor": "Run",
+    "Python.P-7.executor": "Run",
+    "Python.P-8.executor": "Run",
+    "Python.P-9.executor": "Run",
+    "Python.Practise1.executor": "Run",
+    "Python.Practise3.executor": "Run",
+    "Python.Read Files Name From Directory and Print List.executor": "Run",
+    "Python.Set.executor": "Run",
+    "Python.Shape printing using for loop.executor": "Run",
+    "Python.Simplemath.executor": "Run",
+    "Python.String Concatenation.executor": "Run",
+    "Python.String Index.executor": "Run",
+    "Python.String Repetition.executor": "Run",
+    "Python.String.executor": "Run",
+    "Python.Truple.executor": "Run",
+    "Python.Type Conversion.executor": "Run",
+    "Python.Variable.executor": "Run",
+    "Python.While_Loop.executor": "Run",
+    "Python.file_hanading.executor": "Run",
+    "Python.file_handaling2.executor": "Run",
+    "Python.for loop.executor": "Run",
+    "Python.for loop2.executor": "Run",
+    "Python.fuunction.executor": "Run",
+    "Python.fuunction2.executor": "Run",
+    "Python.hellow world.executor": "Run",
+    "Python.p1.executor": "Run",
+    "Python.p12.executor": "Run",
+    "Python.p13.executor": "Run",
+    "Python.p2.executor": "Run",
+    "Python.p22.executor": "Run",
+    "Python.p3.executor": "Run",
+    "Python.practise2.executor": "Run",
+    "Python.pyramid printing using for loop.executor": "Run",
+    "Python.q1.executor": "Run",
+    "Python.stringPractise.executor": "Run",
+    "Python.w1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a482a1d-e88a-40ad-bc38-3845f27e65f1" name="Changes" comment="" />
+      <created>1724208981715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724208981715</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Practise/Simplemath.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Practise/Operator Precdence.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Practise/While_Loop.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Practise/While_Loop.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OOP 2 LAB/P-11.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OOP 2 LAB/P-27.py</url>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python Practise/OOPEXaM/Practise3.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
